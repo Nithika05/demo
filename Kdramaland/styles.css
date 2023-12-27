@@ -1,0 +1,183 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+header > .heading > img{
+    width: 5%;
+}
+
+header > .heading >h1{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+header > .heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header > form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+header > input{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+
+#search{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#submit{
+    color:black;
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+img{
+    width: 35%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*body > p{
+    color: antiquewhite;
+}*/
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.container >img{
+    width: 100%;
+}
+
+.container:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.container2>img{
+    width: 100%;
+}
+.container2:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.container3>img{
+    width: 100%;
+}
+.container3:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container4{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.container4>img{
+    width: 100%;
+}
+.container4:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.container5{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.container5>img{
+    width: 100%;
+}
+.container5:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.container6{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.container6>img{
+    width: 100%;
+}
+.container6:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237) ;
+}
+body>h1{
+    color: cornflowerblue;
+}
+.container7{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.container7>img{
+    width: 100%;
+}
+.container7:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.container8{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.container8>img{
+    width: 100%;
+}
+.container8:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
