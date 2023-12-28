@@ -33,6 +33,10 @@ header > input{
     padding: 5px;
     border-radius: 10px;
 }
+#search:focus{
+  border: none;
+  outline: none;
+}
 #submit{
     color:black;
     background-color: cornflowerblue;
@@ -44,7 +48,7 @@ img{
     justify-content: space-around;
     align-items: center;
 }
-.container{
+.set{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -52,13 +56,13 @@ img{
     border-radius: 10px;
     color: aliceblue;
 }
-.container >img{
+.set >img{
     width: 100%;
 }
-.container:hover{
+.set:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
-.container2{
+.set2{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -66,13 +70,13 @@ img{
     border-radius: 10px;
     color: aliceblue;
 }
-.container2>img{
+.set2>img{
     width: 100%;
 }
-.container2:hover{
+.set2:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
-.container3{
+.set3{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -80,17 +84,17 @@ img{
     border-radius: 10px;
     color: aliceblue;
 }
-.container3>img{
+.set3>img{
     width: 100%;
 }
-.container3:hover{
+.set3:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
 main{
     display: flex;
     flex-wrap: wrap;
 }
-.container4{
+.set4{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -98,13 +102,13 @@ main{
     border-radius: 10px;
     color: aliceblue;
 }
-.container4>img{
+.set4>img{
     width: 100%;
 }
-.container4:hover{
+.set4:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
-.container5{
+.set5{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -112,13 +116,13 @@ main{
     border-radius: 10px;
     color: aliceblue;
 }
-.container5>img{
+.set5>img{
     width: 100%;
 }
-.container5:hover{
+.set5:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
-.container6{
+.set6{
     display: flex;
     flex-direction: column;
     width: 23%;
@@ -126,38 +130,38 @@ main{
     border-radius: 10px;
     color: aliceblue;
 }
-.container6>img{
+.set6>img{
     width: 100%;
 }
-.container6:hover{
+.set6:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237) ;
 }
 body>h1{
     color: cornflowerblue;
 }
-.container7{
+.set7{
     display: flex;
     flex-direction: column;
     width: 23%;
     padding: 10px;
     border-radius: 10px;
 }
-.container7>img{
+.set7>img{
     width: 100%;
 }
-.container7:hover{
+.set7:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
-.container8{
+.set8{
     display: flex;
     flex-direction: column;
     width: 23%;
     padding: 10px;
     border-radius: 10px;
 }
-.container8>img{
+.set8>img{
     width: 100%;
 }
-.container8:hover{
+.set8:hover{
     box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
 }
