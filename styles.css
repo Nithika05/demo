@@ -1,0 +1,167 @@
+body{
+  background-color: black;
+  color: white;
+}
+header > .heading > img{
+    width: 5%;
+}
+header > .heading >h1{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+header > .heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+header > form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header > input{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+#search{
+    padding: 5px;
+    border-radius: 10px;
+}
+#search:focus{
+  border: none;
+  outline: none;
+}
+#submit{
+    color:black;
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 10px;
+}
+img{
+    width: 35%;
+    justify-content: space-around;
+    align-items: center;
+}
+.set{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set >img{
+    width: 100%;
+}
+.set:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.set2{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set2>img{
+    width: 100%;
+}
+.set2:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.set3{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set3>img{
+    width: 100%;
+}
+.set3:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.set4{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set4>img{
+    width: 100%;
+}
+.set4:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.set5{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set5>img{
+    width: 100%;
+}
+.set5:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.set6{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.set6>img{
+    width: 100%;
+}
+.set6:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237) ;
+}
+body>h1{
+    color: cornflowerblue;
+}
+.set7{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.set7>img{
+    width: 100%;
+}
+.set7:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
+.set8{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.set8>img{
+    width: 100%;
+}
+.set8:hover{
+    box-shadow: 0px 0px 10px 0px rgb(126, 196, 237);
+}
